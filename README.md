@@ -2,10 +2,8 @@
 ANIME BOOK
 ==========
 
-Live Link:
+Live Link: [Anime Book](https://umeshpalsingh.github.io/anime-book/)
 ----------
-
-[Anime Book](https://umeshpalsingh.github.io/anime-book/)
 
 ### To see the code go to this repo:
 
